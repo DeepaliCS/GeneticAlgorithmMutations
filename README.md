@@ -4,6 +4,8 @@ This project is about exploring different mutation patterns using the one point 
 
 The concept is based on evolution and understanding whether why some patterns of mutation are better than others i.e - which genetics survive and which die off.
 
+Objective: Fidn the best possible solution to the Scales Problem using Search and Fitness optimization methods.
+
 ## Creation Info
 The project was created in Eclipse IDE, written in Java.
 
